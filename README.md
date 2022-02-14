@@ -3,7 +3,7 @@ Tinder for you to add whoever you like and use to have fun?
 \
 \
 Buttons are not working, so... don't poke them :|
-> **If you want to add someone please see the [Adding new people](https://github.com/MustafaCQN/tinderClone#adding-new-people) section**
+> **If you want to add someone please see the [Adding new people](#adding-new-people) section**
 
 
 # Application URL
